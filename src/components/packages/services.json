@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_packages_services",
+  "info": {
+    "displayName": "Services",
+    "icon": "cog"
+  },
+  "options": {},
+  "attributes": {
+    "service_name": {
+      "type": "string"
+    }
+  }
+}
